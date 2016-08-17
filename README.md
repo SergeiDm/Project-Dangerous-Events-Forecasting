@@ -1,2 +1,2 @@
-# The-Capstone-project
-Conflict forecasting in Europe
+# The Project Dangerous Events Forecasting
+For description of the problem read the file *docx.
